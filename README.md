@@ -1,4 +1,4 @@
-# Fb-Cracker-v.3
+# fb-crack-v.3
 ## VERSION 3
 
 # CARA INSTALL
@@ -7,9 +7,9 @@
 ### $ pkg install python2
 ### $ pip2 install request
 ### $ pip2 install mechanize
-### $ git clone https://github.com/MrGameOver16/Fb-Cracker-v.3
-### $ cd Fb-Cracker-v.3
+### $ git clone https://github.com/MrGameOver16/fb-crack-v.3
+### $ cd fb-crack-v.3
 ### $ python2 crack.py
 
 # SEKIAN
-### FACEBOOK : Mr.GameOver (aadityaa)
+### PENULIS : Mr.GameOver (aadityaa)
